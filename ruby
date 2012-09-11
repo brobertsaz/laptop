@@ -13,8 +13,8 @@ echo "Installing Rails to write and run web applications ..."
 echo "Installing the Heroku gem to interact with the http://heroku.com API ..."
   gem install heroku --no-rdoc --no-ri
 
-echo "Installing the pg gem to talk to Postgres databases ..."
-  gem install pg --no-rdoc --no-ri
+echo "Installing the Mongoid gem to talk to Mongodb databases ..."
+  gem install mongoid --no-rdoc --no-ri
 
 echo "Installing the foreman gem for serving your Rails apps in development mode ..."
   gem install foreman --no-rdoc --no-ri
