@@ -3,6 +3,11 @@ Laptop
 
 Laptop is a script to set up a Mac OS X laptop for Rails development.
 
+Update
+======
+
+I edited this to use Mongodb and Mongoid.
+
 Requirements
 ------------
 
