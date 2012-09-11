@@ -21,7 +21,7 @@ Install
 
 Run the script:
 
-    zsh < <(curl -s https://raw.github.com/thoughtbot/laptop/master/mac)
+    zsh < <(curl -s https://raw.github.com/brobertsaz/laptop/master/mac)
 
 What it sets up
 ---------------
@@ -33,8 +33,7 @@ What it sets up
 * Heroku Config plugin for local `ENV` variables
 * Homebrew for managing operating system libraries
 * ImageMagick for cropping and resizing images
-* Postgres for storing relational data
-* Postgres gem for talking to Postgres from Ruby
+* Mongodb and Mongoid for NoSQL database
 * Qt for headless JavaScript testing via Capybara Webkit
 * Rails gem for writing web applications
 * Ruby 1.9.3 stable for writing general-purpose code
