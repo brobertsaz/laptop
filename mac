@@ -27,7 +27,7 @@ export PATH='/usr/local/bin:$PATH'" >> ~/.zshrc
   source ~/.zshrc
 
 echo "Installing Mongodb, a great NoSQL database ..."
-  port install mongodb
+  brew install mongodb
 
 echo "Installing ack, a good way to search through files ..."
   brew install ack
